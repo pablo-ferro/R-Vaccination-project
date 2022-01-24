@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## R Project: Covid-19 Vaccination tracker
 
-You can use the [editor on GitHub](https://github.com/pablo-ferro/R-Vaccination-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This page explains the Covid-19 Vaccination process both in [Sweden](https://github.com/pablo-ferro/Covid_Sweden_vaccination_gganimate) and [Spain](https://github.com/pablo-ferro/Covid_Spain_vaccination_gganimate) and try to set up the comparison structure and formatting for the coming future, as this is a work in progress. Quite fun to tell the story of a project building.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction
 
-### Markdown
+The main goal with this project is to highlight some positive data from this situation and understand the differences between two countries.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Edited till here
 
 ```markdown
 Syntax highlighted code block
