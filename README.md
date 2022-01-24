@@ -33,6 +33,13 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pablo-ferro/R-Vaccination-project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Edited after here
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
+- 🌸🌼 Machine Learning Iris classification: [Iris Flower classification](https://github.com/pablo-ferro/ML_iris_flower)
+- 🗣👍🏽 Natural Language Programming NLP Project: [Joe Biden speech Sentiment Analysis](https://github.com/pablo-ferro/NLP_Biden_speech)
+- 🧗🏻‍♀️🗺 Mapping special caves in Cannary Island: [Cartographic coordinates dynamic map]( https://github.com/pablo-ferro/mapping_Caves_in_CanaryIslands)
+- 👨🏻‍🚀👋🏼 Python API Introduction [International Space Station](https://github.com/pablo-ferro/International_Space_Station_API)
+
+
+Connect with me: [LinkedIn](https://www.linkedin.com/in/pablo-ferro/)
