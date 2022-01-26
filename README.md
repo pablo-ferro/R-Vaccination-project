@@ -6,23 +6,13 @@ This page explains the Covid-19 Vaccination process both in [Sweden](https://git
 
 The main goal with this project is to highlight some positive data from this situation and understand the differences between two countries.
 
+Using R for the first time was a challenge that quickly turned into a animated chart to visualize how the rate was trying to reaching the desired 70% of population vaccinated:
 
-### Edited till here
+![Main dynamic GIF result](animated_vaccionation_dose.gif)
 
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-- Bulleted
-- List
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-```
+How fast vaccination rates grew in such different European countries like Spain and Sweden? And if we look at the two main regions in each country?
 
-### Edited after here
+![Not the covid one, but obama getting vaccinated](A_White_House_nurse_prepares_to_administer_the_H1N1_vaccine_to_President_Barack_Obama.jpg)
 
 - 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
 - 🌸🌼 Machine Learning Iris classification: [Iris Flower classification](https://github.com/pablo-ferro/ML_iris_flower)
