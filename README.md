@@ -14,6 +14,8 @@ How fast vaccination rates grew in such different European countries like Spain 
 
 ![Not the covid one, but obama getting vaccinated](A_White_House_nurse_prepares_to_administer_the_H1N1_vaccine_to_President_Barack_Obama.jpg)
 
+
+If you liked this project and are interested in many others that I developed, check these ones:
 - 🕺🎧 Spotify Python API top tracks: [Spotipy most listened songs](https://github.com/pablo-ferro/Spotify_API_top_tracks)
 - 🌸🌼 Machine Learning Iris classification: [Iris Flower classification](https://github.com/pablo-ferro/ML_iris_flower)
 - 🗣👍🏽 Natural Language Programming NLP Project: [Joe Biden speech Sentiment Analysis](https://github.com/pablo-ferro/NLP_Biden_speech)
